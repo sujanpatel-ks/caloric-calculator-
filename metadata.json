@@ -1,0 +1,7 @@
+{
+  "name": "NutraMind - AI Calorie Calculator",
+  "description": "An intelligent calorie calculator that understands natural language and images. Describe your meal or take a picture, and NutraMind provides a detailed calorie breakdown and nutritional advice using the Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
